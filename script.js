@@ -13,6 +13,12 @@ const posts = [
     type: "text",
     topics: ["thoughts", "intro"],
     content: "This is my first real post on L.A.M.E. I’m exploring what Loving All My Energy means to me in real life."
+  }, {id: 2,
+    title: "What to expect",
+    date: "2026-02-19",
+    type: "text",
+    topics: ["What is this?","thoughts","intro"],
+    content: "This website is intended to be an extension of me and all my energy.The good,bad,smart,dumb,creative, destructive, etc,and how I choose to love it all as it comes."
   }
 ];
 
