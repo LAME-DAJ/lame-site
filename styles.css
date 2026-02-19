@@ -208,4 +208,27 @@ footer {
     0 0 40px rgba(247, 127, 0, 0.25);
 
 /* Jiggly bubble wobble */
+.sliders {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  background: rgba(26, 15, 10, 0.75);
+  backdrop-filter: blur(8px);
+  border-radius: 16px;
+  padding: 0.75rem 1rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  display: grid;
+  gap: 0.5rem;
+  z-index: 10;
+}
 
+.sliders label {
+  font-size: 0.75rem;
+  opacity: 0.9;
+  display: grid;
+  gap: 0.25rem;
+}
+
+.sliders input[type="range"] {
+  width: 140px;
+  }
