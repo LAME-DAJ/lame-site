@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>L.A.M.E — Loving.All.My.Energy</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <header class="hero">
+    <h1>L.A.M.E</h1>
+    <p class="tagline">Loving. All. My. Energy.</p>
+    <p class="subtitle">A warm, abstract space for thoughts, media, and creative work.</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search posts, topics, music, resources..." />
+      <select id="filter">
+        <option value="all">All</option>
+        <option value="text">Text</option>
+        <option value="image">Images</option>
+        <option value="video">Video links</option>
+        <option value="resource">Resources</option>
+        <option value="music">Music</option>
+      </select>
+    </section>
+
+    <section id="posts" class="posts"></section>
+  </main>
+
+  <footer>
+    <p>© <span id="year"></span> L.A.M.E — Loving.All.My.Energy</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
