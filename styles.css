@@ -162,7 +162,7 @@ footer {
 }
 
 /* Animations */
-@keyframes floatUp {
+
 @keyframes floatWobble {
   0% {
     transform: translateY(0) translateX(0) scale(0.9) rotate(0deg);
