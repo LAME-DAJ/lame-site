@@ -6,7 +6,7 @@ const posts = [
     type: "text",
     topics: ["intro", "energy"],
     content: "This is the beginning of Loving.All.My.Energy — a space to share thoughts, media, and creative work."
-  } {
+  }, {
     id: 2,
     title: "My First Real Post",
     date: "2026-02-19",
