@@ -62,3 +62,45 @@ searchEl.addEventListener("input", filterPosts);
 filterEl.addEventListener("change", filterPosts);
 
 renderPosts(posts);
+const speedSlider = document.getElementById("speedSlider");
+const glowSlider = document.getElementById("glowSlider");
+const sizeSlider = document.getElementById("sizeSlider");
+const countSlider = document.getElementById("countSlider");
+
+function updateBubbles() {
+  const bubbles = document.querySelectorAll(".bubble");
+
+  bubbles.forEach(bubble => {
+    const speed = speedSlider.value;
+    const glow = glowSlider.value;
+    const size = sizeSlider.value;
+
+    bubble.style.animationDuration = speed + "s";
+    bubble.style.width = size + "px";
+    bubble.style.height = size + "px";
+    bubble.style.filter = `
+      drop-shadow(0 0 ${glow}px rgba(255, 183, 3, 0.6))
+      drop-shadow(0 0 ${glow * 2}px rgba(247, 127, 0, 0.35))
+    `;
+  });
+}
+
+speedSlider.addEventListener("input", updateBubbles);
+glowSlider.addEventListener("input", updateBubbles);
+sizeSlider.addEventListener("input", updateBubbles);
+
+// Optional: dynamic bubble count
+countSlider.addEventListener("input", () => {
+  const container = document.querySelector(".ambient");
+  const current = container.querySelectorAll(".bubble").length;
+  const target = Number(countSlider.value);
+
+  if (target > current) {
+    for (let i = current; i < target; i++) createBubble();
+  } else {
+    for (let i = current; i > target; i--) {
+      const b = container.querySelector(".bubble");
+      if (b) b.remove();
+    }
+  }
+});
