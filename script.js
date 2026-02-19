@@ -6,6 +6,13 @@ const posts = [
     type: "text",
     topics: ["intro", "energy"],
     content: "This is the beginning of Loving.All.My.Energy — a space to share thoughts, media, and creative work."
+  } {
+    id: 2,
+    title: "My First Real Post",
+    date: "2026-02-19",
+    type: "text",
+    topics: ["thoughts", "intro"],
+    content: "This is my first real post on L.A.M.E. I’m exploring what Loving All My Energy means to me in real life."
   }
 ];
 
