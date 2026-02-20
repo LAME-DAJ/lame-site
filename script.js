@@ -129,3 +129,33 @@ countSlider.addEventListener("input", () => {
     }
   }
 });
+document.getElementById("generate-post")?.addEventListener("click", () => {
+  const title = document.getElementById("new-title").value.trim();
+  const type = document.getElementById("new-type").value;
+  const topicsRaw = document.getElementById("new-topics").value;
+  const content = document.getElementById("new-content").value;
+
+  const topics = topicsRaw
+    .split(",")
+    .map(t => t.trim())
+    .filter(Boolean)
+    .map(t => `"${t}"`)
+    .join(", ");
+
+  const safeContent = content.replace(/`/g, "\\`");
+
+  const id = Date.now();
+
+  const output = `
+{ 
+  id: ${id},
+  title: "${title.replace(/"/g, '\\"')}",
+  date: "${new Date().toISOString().split("T")[0]}",
+  type: "${type}",
+  topics: [${topics}],
+  content: \`${safeContent}\`
+},
+`;
+
+  document.getElementById("post-output").textContent = output;
+});
