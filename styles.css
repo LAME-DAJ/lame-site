@@ -273,4 +273,17 @@ footer {
   padding: 0.5rem 1rem;
   font-weight: 700;
   cursor: pointer;
+}.hidden {
+  display: none;
+}
+
+.admin-lock {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+#lock-msg {
+  font-size: 0.8rem;
+  opacity: 0.8;
 }
