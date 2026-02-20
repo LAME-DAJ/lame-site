@@ -158,7 +158,7 @@ document.getElementById("generate-post")?.addEventListener("click", () => {
 `;
 
   document.getElementById("post-output").textContent = output;
-});const ADMIN_PASSWORD = "lameenergy"; // change this to whatever you want
+});const ADMIN_PASSWORD = "bigdumbbaby"; // change this to whatever you want
 
 const unlockBtn = document.getElementById("unlock-admin");
 const passwordInput = document.getElementById("admin-password");
