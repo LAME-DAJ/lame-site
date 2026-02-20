@@ -38,7 +38,14 @@ const posts = [
     that truth is not what people would expect from just reading the back my story is different it's not a easy read some parts make me cringe,some parts make proud ,some parts make me happy, sad,good,bad. but no one can ever get the full story if I snatched the bookand run when it getto a certain part.I know the story gets better but I still be stuck on rvery letter from the chapters before. bottom line id love to be an open book ideally that would make feel free,
     but in reality it just puts a target on me. The reviews,people hear my title and think "damn thats a shame" If the story stopped there I would agree but since the shameful parts there has been many more installments of me.,
     this time I'll just keep the book open I read the worst part outloud to a tough crowd the story gets better for who ever wants to turn the page and read the real daj. Im just L.A.M.E loving all my energy.`
-  }
+  },{ 
+  id: 6,
+  title: "Life is funny that way",
+  date: "2026-02-20",
+  type: "text",
+  topics: ["Reflection"],
+  content: `Why do I only wanna say and do smart shit when I'm feeling dumb😂 the universe searching for balance lol`
+}
 ];
 
 const postsEl = document.getElementById("posts");
