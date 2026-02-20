@@ -231,4 +231,46 @@ footer {
 
 .sliders input[type="range"] {
   width: 140px;
-  }
+  }.admin {
+  max-width: 900px;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+.admin details {
+  background: linear-gradient(135deg, #2a140d, #1a0f0a);
+  border-radius: 16px;
+  padding: 1rem;
+  box-shadow: 0 0 0 1px rgba(255,183,3,0.15);
+}
+
+.admin summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.admin-form {
+  display: grid;
+  gap: 0.6rem;
+}
+
+.admin-form input,
+.admin-form textarea,
+.admin-form select {
+  background: #1e0f0a;
+  border: none;
+  border-radius: 10px;
+  padding: 0.6rem;
+  color: var(--text);
+}
+
+.admin-form button {
+  background: linear-gradient(135deg, #ffb703, #f77f00);
+  border: none;
+  border-radius: 999px;
+  padding: 0.5rem 1rem;
+  font-weight: 700;
+  cursor: pointer;
+}
