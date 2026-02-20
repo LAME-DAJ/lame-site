@@ -19,7 +19,7 @@ const posts = [
     type: "text",
     topics: ["What is this?","thoughts","intro"],
     content: "This website is intended to be an extension of me and all my energy.The good,bad,smart,dumb,creative, destructive, etc,and how I choose to love it all as it comes."
-  },{id: 4,
+  }, {id: 4,
     title: "GROWInG DUmMY",
     date: "2-19-2026",
     type: "text",
