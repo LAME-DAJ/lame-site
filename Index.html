@@ -33,10 +33,16 @@
         <option value="music">Music</option>
       </select> 
       <section class="admin">
-  <details>
-    <summary>✍🏾 New Post (Admin)</summary>
+  <details id="admin-details" open>
+    <summary>🔒 Admin (Locked)</summary>
 
-    <div class="admin-form">
+    <div class="admin-lock">
+      <input id="admin-password" type="password" placeholder="Enter admin password" />
+      <button id="unlock-admin">Unlock</button>
+      <p id="lock-msg"></p>
+    </div>
+
+    <div class="admin-form hidden">
       <input id="new-title" placeholder="Post title" />
       <input id="new-topics" placeholder="Topics (comma separated)" />
       
@@ -54,6 +60,8 @@
 
       <pre id="post-output"></pre>
     </div>
+  </details>
+      </section>
   </details>
       </section>
     </section> <div class="sliders">
