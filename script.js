@@ -13,12 +13,18 @@ const posts = [
     type: "text",
     topics: ["thoughts", "intro"],
     content: "This is my first real post on L.A.M.E. I’m exploring what Loving All My Energy means to me in real life."
-  }, {id: 2,
+  }, {id: 3,
     title: "What to expect",
     date: "2026-02-19",
     type: "text",
     topics: ["What is this?","thoughts","intro"],
     content: "This website is intended to be an extension of me and all my energy.The good,bad,smart,dumb,creative, destructive, etc,and how I choose to love it all as it comes."
+  },{id: 4,
+    title: "GROWInG DUmMY",
+    date: "2-19-2026,
+    type: "text",
+    topics: ["Current Energy","thoughts""acceptance""talk to myself"],
+    content: "Grown dummy. to words that have been replaying in my head today and affecting my energy in a negative way. Even though I know I'm intelligent in many ways,and I've spent the last two days building my first website with the help of chat gpt(not your usual dummy activities),I still cant shake the cringey feeling I get when those two words skate through my mind every couple minutes. why tho? is the question I ask my self,and myself gonna break it down so I can understand it accept it for what it is and get back to my best enemy. Grown Dummy, fist of all that's a very rare combination to be called so off the rip it's like damn that's personal lol. it's the grown part fr like if they had said young dummy, those two words are synonymous, Young and Dumb, you hear it all the time it's kinda accepted,almost expected where there's young there may also be dumb. but to be called a grown dummy says you're too old to be so dumb and that stings because it brings with it a sense of regret or failure, like I've some how missed the age threshold that it is ok to be dumb and I'm now grown and stuck on the dummy train😒🚆🤦🏾‍♀️. like I have no right to be an dummy at my age. So really that insult packed a double punch. Now how do I get over it ? well first I unpack it, do i think I'm a grown dummy?, ideally no, can I see why other people would call me a grown dummy?, honestly yes. So there, a little honesty and acceptance does alot to take some of the cringe away. Yes I'm grown, yes I did and said dumb shit and could bet I'll say and do more more dumb shit before it's all over so if I look at it that way I'll always be a grown very intelligent dummy🤷🏾‍♀️,so it's no use felling embarrassed about it now. then I wonder what exactly caused this reaction. like what was it that I said or did that earned me the label Grown dummy because while whether or not I'm grown can be easily measured and agreed upon, whether or not I am, or what I said or did is dumb is subjective. Unfortunately I can very quickly think of plenty of reasons why someone would call me a grown dummy so I cant really pin point what caused them to come to that conclusion 😄.No matter which example I give the word dumb or the state of being a dummy in this context is subjective and even my own opinion of the things I say and do is ever changing. while today I may agree my way of thinking and actions in the past were dumb, at the time I didn't feel that way it may have been the best/smartest POV,Option,solution at the time.so what's dumb today was smart yesterday that's okay it's apart of learning and growing. If I can live to see the errors of the day before then I can always spend the next day correcting them. So yes it hurts to be labeled a Grown dummy I'll take it as encouragement to do better. As long as there is a new day I'm fine with being a GROWInG DUmMY. I Love That Energy!"
   }
 ];
 
