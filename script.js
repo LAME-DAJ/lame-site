@@ -158,4 +158,19 @@ document.getElementById("generate-post")?.addEventListener("click", () => {
 `;
 
   document.getElementById("post-output").textContent = output;
+});const ADMIN_PASSWORD = "lameenergy"; // change this to whatever you want
+
+const unlockBtn = document.getElementById("unlock-admin");
+const passwordInput = document.getElementById("admin-password");
+const adminForm = document.querySelector(".admin-form");
+const lockMsg = document.getElementById("lock-msg");
+
+unlockBtn?.addEventListener("click", () => {
+  if (passwordInput.value === ADMIN_PASSWORD) {
+    adminForm.classList.remove("hidden");
+    document.querySelector(".admin-lock").classList.add("hidden");
+    lockMsg.textContent = "";
+  } else {
+    lockMsg.textContent = "Wrong password 😅";
+  }
 });
