@@ -31,7 +31,31 @@
         <option value="video">Video links</option>
         <option value="resource">Resources</option>
         <option value="music">Music</option>
+      </select> 
+      <section class="admin">
+  <details>
+    <summary>✍🏾 New Post (Admin)</summary>
+
+    <div class="admin-form">
+      <input id="new-title" placeholder="Post title" />
+      <input id="new-topics" placeholder="Topics (comma separated)" />
+      
+      <select id="new-type">
+        <option value="text">Text</option>
+        <option value="music">Music</option>
+        <option value="resource">Resource</option>
+        <option value="image">Image</option>
+        <option value="video">Video</option>
       </select>
+
+      <textarea id="new-content" rows="8" placeholder="Write your post here..."></textarea>
+
+      <button id="generate-post">Generate Safe Post Code</button>
+
+      <pre id="post-output"></pre>
+    </div>
+  </details>
+      </section>
     </section> <div class="sliders">
   <label>
     Speed
