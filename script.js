@@ -75,7 +75,15 @@ const posts = [
   type: "text",
   topics: ["Thoughts", "feelings right now", "emotions"],
   content: `My life is a problem that I need help with but I cant trust anybody to ask.I don't know how to ask for help or really what i need help with, and I don't even really believe id get help If I did ask anyone. I can help my self but only with the problems within the problem.every one in close proximity to me seems to be committed to making more problems for me and watching me react. My Energy because of this is distraught yet determined to find not only the cause but the solution . But give me 5 mins I'll be good 😄`
-}
+},{ 
+  id: 11,
+  title: "Hmm seems that way",
+  date: "2026-02-21",
+  type: "text",
+  topics: ["Thoughts", "reflection"],
+  content: `Someone said I had attachment issues, m starting to think they're right🤦🏾‍♀️😄
+It's kinda not funny tho.`
+},
 ];
 
 const postsEl = document.getElementById("posts");
