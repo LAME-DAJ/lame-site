@@ -45,7 +45,15 @@ const posts = [
   type: "text",
   topics: ["Reflection"],
   content: `Why do I only wanna say and do smart shit when I'm feeling dumb😂 the universe searching for balance lol`
-}
+},{
+  id: 7,
+  title: "Bubble Buddies",
+  date: "2026-02-20",
+  type: "image",
+  topics: ["art", "Vibes","photos"],
+  image: "https://postimg.cc/k2f3ZLCb",
+  content: "Interacting with the art around me🫧"
+  }
 ];
 
 const postsEl = document.getElementById("posts");
