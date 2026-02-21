@@ -83,6 +83,22 @@ const posts = [
   topics: ["Thoughts", "reflection"],
   content: `Someone said I had attachment issues, m starting to think they're right🤦🏾‍♀️😄
 It's kinda not funny tho.`
+},{id: 13,
+  title: "Can I get a courtesy cup",
+  date: "2026-02-21",
+  type: "text",
+  topics: ["POETRY"],
+  content: `You cant save the world that's just how it works. 
+
+Guess I should've secured my mask first. 
+
+Cause they'd rather see me in a hearse. 
+
+The vibes are weird and it kinda hurts. 
+
+The truth is water and I'm dying of thirst.
+
+The truth is water and I'm dying of thirst.`
 }
 ];
 
