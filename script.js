@@ -83,7 +83,7 @@ const posts = [
   topics: ["Thoughts", "reflection"],
   content: `Someone said I had attachment issues, m starting to think they're right🤦🏾‍♀️😄
 It's kinda not funny tho.`
-},
+}
 ];
 
 const postsEl = document.getElementById("posts");
