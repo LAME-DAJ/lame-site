@@ -99,6 +99,13 @@ The truth is water and I'm dying of thirst.`
   topics: ["Thoughts", "reflection"],
   content: `Okay my energy today has been a moody bitch 
 I think it's time for my mood to switch.`
+},{ 
+  id: 14,
+  title: "Break time",
+  date: "2026-02-21",
+  type: "text",
+  topics: ["Work", "level up"],
+  content: `Currently working on being able to add images to the website but I'm face some obstacles with chat gpt. I'm gonna focus on something else and come back later. `
 }
 ];
 
