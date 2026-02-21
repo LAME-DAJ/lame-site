@@ -61,7 +61,14 @@ const posts = [
   type: "text",
   topics: ["Thoughts", "Good morning", "Political", "Trapped"],
   content: `Stockholm syndrome is a weird dangerous psychological defect that needs to be studied and destroyed lol. And since I'm thinking about it a certain way now I also can see how it could be one of the biggest secrets that keeps the world running the way it does through politics and religion. If your not at the top in one of those two like you're just a regular citizen or congregation member you basically just a hostage slave suffering from the usual manipulation but also a different form of mass Stockholm syndrome. You all love your leaders(oppressors), even the ones you "hate".`
-}
+},{ 
+  id: 1771684557317,
+  title: "Feelings right now",
+  date: "2026-02-21",
+  type: "text",
+  topics: ["Thoughts", "emotions"],
+  content: `Right now I'm just confused with a hint of irrational urgency and emotions. Since I know these thoughts and feelings are irrational I'm getting annoyed that they keep cycling through. `
+},
 ];
 
 const postsEl = document.getElementById("posts");
