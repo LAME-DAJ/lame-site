@@ -164,26 +164,59 @@ I think it's time for my mood to switch.`
   topics: ["Goodmorning", "thoughts"],
   content: `Looking back through an old notebook I feel like i found my self in 2024 but I know i lost myself in 2025. 2026 the search begins again 👁🔎`
 },{ 
-  id: 1771756902300,
+  id: 23,
   title: "My bad",
   date: "2026-02-22",
   type: "text",
   topics: ["Gangstalking", "thoughts"],
   content: `My mistake: trying to embrace what's happening and playing along to get get along. I fucked my own head up🤦🏾‍♀️`
 },{ 
-  id: 1771758912459,
+  id: 24,
   title: "Idk",
   date: "2026-02-22",
   type: "text",
   topics: [],
   content: `Am I taking it too serious or not serious enough?`
 },{ 
-  id: 1771759797646,
+  id:25,
   title: "Annoyed",
   date: "2026-02-22",
   type: "text",
   topics: ["Thoughts"],
   content: `Now I made it to work early and my body decides we gotta shit😑 after I sat on the toilet for an hour this morning 🤦🏾‍♀️ I guess it was too early. But I don't wanna deal with no  more shit today lol figuratively or literally, but judging how my stomach feels and the work I do I know I'm fighting a loosing battle 😂💩`
+},{ 
+  id: 26,
+  title: "Cuckoo for what",
+  date: "2026-02-22",
+  type: "text",
+  topics: ["Questions"],
+  content: `Whats better Coco puffs or Coco
+Krispies?
+Me personally, I prefer Coco Krispies. I like the SNAP,CRACKLE,and,POP🍫🥣🧋`
+},{ 
+  id: 27,
+  title: "A helpful breathing exercise",
+  date: "2026-02-22",
+  type: "text",
+  topics: ["Grounding"],
+  content: `BOX BREATH:
+Instructions: Imagine a box in front of you.
+
+Trace the box with your finger. 
+
+Inhale as you trace right,hold your breath as you trace down, exhale as you trace left, hold your breath as you trace up. Repeat three times.
+
+This  breathing Technique increases focus and reduces stress and overwhelm`
+},{ 
+  id: 28,
+  title: "Quote of the day",
+  date: "2026-02-22",
+  type: "text",
+  topics: ["Quotes"],
+  content: `I don't compete I attract and if I cant multiply, Bitch I subtract.
+   -sometarotreader
+
+              😂😂`
 }
 ];
 
