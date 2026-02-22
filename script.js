@@ -106,6 +106,13 @@ I think it's time for my mood to switch.`
   type: "text",
   topics: ["Work", "level up"],
   content: `Currently working on being able to add images to the website but I'm face some obstacles with chat gpt. I'm gonna focus on something else and come back later. `
+},{ 
+  id: 15,
+  title: "Mind dump rq",
+  date: "2026-02-22",
+  type: "text",
+  topics: ["Mind dump", "thoughts", "gangstalking?", "what is real life"],
+  content: `Like i really hate even the idea of being misunderstood it's the on thing that causes me the most anxiety in life. I always thought my self to be a good communicator when it comes to making my point clearly like when I'm in the right energy (confident,assertive,temporarily extroverted) the problem is I'm not always in that energy most times I'm less outgoing and assertive so my point gets lost in the mix. I've once found comfort in saying that when I  think to my self I don't have to work so hard to be clear because I already know the inside and outside of what I'm trying to say. But now I'm face with the question of how do I deal with even my thoughts being taken wrong or misunderstood. How do I deal with the pressure of having to clearly articulate even my inner dialog and carefully plan the words of my most honest conversations out of fear of being mistaken. There is really no way to do that it just come to a point where accept that I cant always and don't have to put thing in a way that everyone understands. The mind should be a safe place to think freely and move through life.the idea that people would go to great lengths to pry into someone else first and most private space to hear their thoughts but won't communicate in real life is something that is hard for me to grasp, and it's only worsening my poor communication habits and anxiety around it because if you can hear how I really feel and things are the way they are than I  feel like the misunderstanding is a choice and it's no point in me trying to explain  my self or ask questions either because if someone knows the questions I have in my head and the have the answers but still don't offer them would me asking make a difference? Maybe it would idk im trying work on verbalizing what's in my mind even tho now I see even less of a point in doing so than ever.The urge to speak keeps getting stronger but then it feels useless. `
 }
 ];
 
