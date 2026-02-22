@@ -156,6 +156,13 @@ I think it's time for my mood to switch.`
   type: "text",
   topics: [],
   content: `How do I fight for something I cant prove? When the authority that I have to prove it to  is against me too,what I'm supposed to do? What can I Do.but tell  the story people just like to listen and judge then dismiss it. I cant really bring my self to figure it out when I know it's all an illusion and everybody else already knows the truth.so what I'm supposed to do?`
+}, { 
+  id: 22,
+  title: "",
+  date: "2026-02-22",
+  type: "text",
+  topics: ["Goodmorning", "thoughts"],
+  content: `Looking back through an old notebook I feel like i found my self in 2024 but I know i lost myself in 2025. 2026 the search begins again 👁🔎`
 }
 ];
 
