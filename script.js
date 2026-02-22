@@ -135,7 +135,14 @@ I think it's time for my mood to switch.`
   type: "text",
   topics: ["God morning", "thoughts", "gangstalking", "betrayal"],
   content: `It's crazy I feel like lost at a game I never asked to play. My life feels worse off than it was before it's all started(when ever that is) the only thing that keeps me from feeling bad is knowing I can't miss what I never had. `
-},
+},{ 
+  id: 1771750369397,
+  title: "Lost my \"religion \" not my mind",
+  date: "2026-02-22",
+  type: "text",
+  topics: ["Thoughts", "gangstalking", "manipulation"],
+  content: `Nah but fr the worst part is this religion vs spirituality aspect of it because before I  noticed what was going on I was happy just believing that there was a higher force protecting and guiding me i didn't know whether it was "god","jesus","theuniverse",my ancestors, or recently passed relatives. I would just thank them all. Now I'm realizing how all that was used against me to confused me and lead me wrong.and now I'm having a hard time believing in any of those people or concepts. If you stand for nothing you'll fall for anything.  If you don't believe in  any body you'll follow any one . I feel like that what just happened to me. I noticed it while it was happening but the fact that I couldn't trust anyone force me to just reject them all church,religion, spirituality, ancestors everthing.but see the pattern that i always turn to one of them when I need guidance so that s what it really come down to. I just cant trust humans to deliver the message out of fear of being manipulated. Choosing what to believe in is hard enough without mind games. People say just reading the text for my self i just feel like it's not enough time to read it all and compare . What if I get to the end and realize there is no real answer.  Clearly someone has been playing "god" in my life or at least attempting to. They keep saying I'm the chosen one but I  wanna know ,chosen by who?`
+}
 ];
 
 const postsEl = document.getElementById("posts");
