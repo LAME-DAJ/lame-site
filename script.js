@@ -115,20 +115,27 @@ I think it's time for my mood to switch.`
   content: `Like i really hate even the idea of being misunderstood it's the on thing that causes me the most anxiety in life. I always thought my self to be a good communicator when it comes to making my point clearly like when I'm in the right energy (confident,assertive,temporarily extroverted) the problem is I'm not always in that energy most times I'm less outgoing and assertive so my point gets lost in the mix. I've once found comfort in saying that when I  think to my self I don't have to work so hard to be clear because I already know the inside and outside of what I'm trying to say. But now I'm face with the question of how do I deal with even my thoughts being taken wrong or misunderstood. How do I deal with the pressure of having to clearly articulate even my inner dialog and carefully plan the words of my most honest conversations out of fear of being mistaken. There is really no way to do that it just come to a point where accept that I cant always and don't have to put thing in a way that everyone understands. The mind should be a safe place to think freely and move through life.the idea that people would go to great lengths to pry into someone else first and most private space to hear their thoughts but won't communicate in real life is something that is hard for me to grasp, and it's only worsening my poor communication habits and anxiety around it because if you can hear how I really feel and things are the way they are than I  feel like the misunderstanding is a choice and it's no point in me trying to explain  my self or ask questions either because if someone knows the questions I have in my head and the have the answers but still don't offer them would me asking make a difference? Maybe it would idk im trying work on verbalizing what's in my mind even tho now I see even less of a point in doing so than ever.The urge to speak keeps getting stronger but then it feels useless. `
 },
 { 
-  id: 1771726422024,
+  id: 16,
   title: "Mund dump 2",
   date: "2026-02-22",
   type: "text",
   topics: ["Mind dump", "thoughts", "gangstalking?"],
   content: `This website is meant to be an extension of my energy but I'm noticing it becoming a reflection of my current emotional state in a way that I didn't full anticipate. It's therapeutic for me right now to just come here and right how I feel when ever I feel, because for the past 6 years especially but really all my life is didn't feel have a way to work through ar express my problems/feelings the reason being for most of my life was probably just me not wanting to cause trouble for other people  and worrying about what people would think of me but for the past 6 years the reason has been me not being able to trust anyone I know or meet. So my method of dealing with thing is and has always been just thinking to myself but writing things out here has helped a little better lately just by helping me  stream line my thoughts.  The energy on this page is not ideal for me or anyone really but it's where I keep ending up lately. Being in high spirits good energy doesn't drive me to post here I kinda just enjoy those moments in real time. I'm still L.A.M.E but I'm just not sharing it all here.`
 },{ 
-  id: 1771745132585,
+  id: 17,
   title: "My confusing Truth 🤦🏾‍♀️",
   date: "2026-02-22",
   type: "text",
   topics: ["Gangstalking", "manipulation"],
   content: `My life has been hijacked I've been thrown in a whirlpool of confusion,"spiritual attacks,gangstalking,gaslighting,passive aggressive bullying,tampering,theft,lies, manipulation,impersonation,and betrayal,all in the name of aGAME surveillance/monitoring spirits idk which one or how for either I just know people know things they should not know.Ive been mocked,I've been stalked, things have been stolen from my space . My only social media outlet youtube has been taken over by what seems to be participants in the whole thing they mock me by creating a spiritual war within religion vs spirituality they purposely let me know that the know what's going on but they play mind games to keep me confused. I'm told to change my perspective, I'm told to go within  to see the truth but I'm just stuck.everyone around is in on it and some will seem sympathetic but none will help or tell me the truth . I'm just confused. I feel like I'm on some type  show like the tryman show or the even Steven's movie or something.at this point I'll just pick a side and play because the middle just don't feel safe. I'm starting to gas light my self into thinking it myself so I'm trying avoid giving anyone else the chance to. Idk i cant trust Random people to be telling me the truth when my own family turned against me it's really crazy but for some reason It's clear they want me to know they turned against me and they want me to think that my family has stolen some type of money or trust from me so I can turn on them and play this game of war.but I don't know nothing about that and I don't want hurt anybody inthe name of some money especially my parents.who are also participants. I know this for sure I just don't know what will come next. I starting to feel like I'm sacrificing my self and my peace for my enemies this shit is starting to get to me all I can say is its weird.i think I should play but high key  I'm scared lol if this is a game it fell like a loose loose situation for me but I don't wanna wonder what if type shit so....ima stop being a bitch lol if I end up somewhere I should be at least I bet on me lol I don't really know what that last line meant it just sounded good😄`
-} 
+},{ 
+  id: 18,
+  title: "GG",
+  date: "2026-02-22",
+  type: "text",
+  topics: ["God morning", "thoughts", "gangstalking", "betrayal"],
+  content: `It's crazy I feel like lost at a game I never asked to play. My life feels worse off than it was before it's all started(when ever that is) the only thing that keeps me from feeling bad is knowing I can't miss what I never had. `
+},
 ];
 
 const postsEl = document.getElementById("posts");
