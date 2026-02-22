@@ -177,6 +177,13 @@ I think it's time for my mood to switch.`
   type: "text",
   topics: [],
   content: `Am I taking it too serious or not serious enough?`
+},{ 
+  id: 1771759797646,
+  title: "Annoyed",
+  date: "2026-02-22",
+  type: "text",
+  topics: ["Thoughts"],
+  content: `Now I made it to work early and my body decides we gotta shit😑 after I sat on the toilet for an hour this morning 🤦🏾‍♀️ I guess it was too early. But I don't wanna deal with no  more shit today lol figuratively or literally, but judging how my stomach feels and the work I do I know I'm fighting a loosing battle 😂💩`
 }
 ];
 
