@@ -163,6 +163,13 @@ I think it's time for my mood to switch.`
   type: "text",
   topics: ["Goodmorning", "thoughts"],
   content: `Looking back through an old notebook I feel like i found my self in 2024 but I know i lost myself in 2025. 2026 the search begins again 👁🔎`
+},{ 
+  id: 1771756902300,
+  title: "My bad",
+  date: "2026-02-22",
+  type: "text",
+  topics: ["Gangstalking", "thoughts"],
+  content: `My mistake: trying to embrace what's happening and playing along to get get along. I fucked my own head up🤦🏾‍♀️`
 }
 ];
 
