@@ -170,6 +170,13 @@ I think it's time for my mood to switch.`
   type: "text",
   topics: ["Gangstalking", "thoughts"],
   content: `My mistake: trying to embrace what's happening and playing along to get get along. I fucked my own head up🤦🏾‍♀️`
+},{ 
+  id: 1771758912459,
+  title: "Idk",
+  date: "2026-02-22",
+  type: "text",
+  topics: [],
+  content: `Am I taking it too serious or not serious enough?`
 }
 ];
 
