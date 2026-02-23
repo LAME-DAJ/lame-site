@@ -210,15 +210,16 @@ This  breathing Technique increases focus and reduces stress and overwhelm`
 },{ 
   id: 28,
   title: "Quote of the day",
-  date: "2026-02-22",
+  date: "2026-02-23",
   type: "text",
   topics: ["Quotes"],
-  content: `I don't compete I attract and if I cant multiply, Bitch I subtract.
+  content: `\`I don't compete I attract and if I cant multiply, Bitch I subtract.
    -sometarotreader
 
-              😂😂`
-},{ 
-  id: 29,
+              😂😂
+Idk what she talking about it sound good tho lol`
+},
+  { id: 29,
   title: "",
   date: "2026-02-22",
   type: "text",
@@ -226,7 +227,7 @@ This  breathing Technique increases focus and reduces stress and overwhelm`
   content: `I have PTSD
 post traumatic Skepticism disorder. 
 everybody is a suspect 🤨😂 nah but fr tho its not fucking funny.`
-},
+}
 ];
 
 const postsEl = document.getElementById("posts");
