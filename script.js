@@ -246,20 +246,6 @@ But don't  be adding shit I got enough on my own fr😂`
   content: `I wish I had a free bag of the Truuuth👀`
   }
 ];
-Speed 
- Glow 
- Size 
- Count 
-Welcome to L.A.M.E
-2026-02-18 • text
-This is the beginning of Loving.All.My.Energy — a space to share thoughts, media, and creative work.
-
-❤️
-🔥
-✨
-My First Real Post
-2026-02-19 • text
-];
 
 const postsEl = document.getElementById("posts");
 const searchEl = document.getElementById("search");
@@ -378,7 +364,7 @@ document.getElementById("generate-post")?.addEventListener("click", () => {
 `;
 
   document.getElementById("post-output").textContent = output;
-});const ADMIN_PASSWORD = "bigdumbbaby"; // change this to whatever you want
+});const ADMIN_PASSWORD = "Nobodysbh"; // change this to whatever you want
 
 const unlockBtn = document.getElementById("unlock-admin");
 const passwordInput = document.getElementById("admin-password");
