@@ -207,17 +207,6 @@ Trace the box with your finger.
 Inhale as you trace right,hold your breath as you trace down, exhale as you trace left, hold your breath as you trace up. Repeat three times.
 
 This  breathing Technique increases focus and reduces stress and overwhelm`
-},{ 
-  id: 28,
-  title: "Quote of the day",
-  date: "2026-02-23",
-  type: "text",
-  topics: ["Quotes"],
-  content: `\`I don't compete I attract and if I cant multiply, Bitch I subtract.
-   -sometarotreader
-
-              😂😂
-Idk what she talking about it sound good tho lol`
 },
   { id: 29,
   title: "",
@@ -227,7 +216,29 @@ Idk what she talking about it sound good tho lol`
   content: `I have PTSD
 post traumatic Skepticism disorder. 
 everybody is a suspect 🤨😂 nah but fr tho its not fucking funny.`
-}
+},{ 
+  id: 1771843921169,
+  title: "Good morning",
+  date: "2026-02-23",
+  type: "text",
+  topics: ["Good morning"],
+  content: `Good morning it's gonna be a bright sun shining day 🌞`
+},{ 
+  id: 1771844295962,
+  title: "Good morning",
+  date: "2026-02-23",
+  type: "text",
+  topics: ["Thoughts"],
+  content: `It is what it is I'm all that don't leave none don't take none out🤭
+But don't  be adding shit I got enough on my own fr😂`
+},{ 
+  id: 1771844876369,
+  title: "Goodmorning",
+  date: "2026-02-23",
+  type: "text",
+  topics: ["Thoughts"],
+  content: `I'm supposed to be the only person who can see these post rn. like when I'm talking to my self, But just like that I get the feeling that everyone can see what I write and hear what I say/think.🤔 coincidence?,magic?, or nosey spying weird bitches?🤣...and bitch niggas lol`
+},
 ];
 
 const postsEl = document.getElementById("posts");
