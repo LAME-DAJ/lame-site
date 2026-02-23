@@ -53,8 +53,7 @@ const posts = [
   topics: ["art", "Vibes","photos"],
   image: "https://postimg.cc/k2f3ZLCb",
   content: "Interacting with the art around me🫧"
-  }, 
-{ 
+  },{
   id: 8,
   title: "We Got It Bad (or is it just me lol)",
   date: "2026-02-21",
@@ -207,8 +206,8 @@ Trace the box with your finger.
 Inhale as you trace right,hold your breath as you trace down, exhale as you trace left, hold your breath as you trace up. Repeat three times.
 
 This  breathing Technique increases focus and reduces stress and overwhelm`
-},
-  { id: 29,
+},{ 
+  id: 29,
   title: "",
   date: "2026-02-22",
   type: "text",
@@ -245,7 +244,7 @@ But don't  be adding shit I got enough on my own fr😂`
   type: "text",
   topics: ["Thoughts"],
   content: `I wish I had a free bag of the Truuuth👀`
-}
+  }
 ];
 Speed 
  Glow 
