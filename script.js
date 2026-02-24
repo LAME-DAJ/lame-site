@@ -244,7 +244,14 @@ But don't  be adding shit I got enough on my own fr😂`
   type: "text",
   topics: ["Thoughts"],
   content: `I wish I had a free bag of the Truuuth👀`
-  }
+  },{ 
+  id: 1771949047589,
+  title: "",
+  date: "2026-02-24",
+  type: "text",
+  topics: [],
+  content: `I really wanna know how yall hear my thoughts 🤬🤬`
+},
 ];
 
 const postsEl = document.getElementById("posts");
