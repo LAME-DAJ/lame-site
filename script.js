@@ -281,7 +281,34 @@ function renderPosts(list) {
     el.innerHTML = `
       <h3>${p.title}</h3>
       <div class="meta">${p.date} • ${p.type}</div>
-      <p>${p.content}</p>
+      const isYouTube =
+  typeof p.content === "string" &&
+  (p.content.includes("youtube.com/watch") || p.content.includes("youtu.be/"));
+
+el.innerHTML = `
+  <h3>${p.title}</h3>
+  <div class="meta">${p.date} • ${p.type}</div>
+  ${
+    isYouTube
+      ? `<div class="video">
+           <iframe
+             width="100%"
+             height="315"
+             src="${p.content
+               .replace("watch?v=", "embed/")
+               .replace("youtu.be/", "www.youtube.com/embed/")}"
+             frameborder="0"
+             allowfullscreen
+           ></iframe>
+         </div>`
+      : `<p>${p.content}</p>`
+  }
+  <div class="reactions">
+    <button>❤️</button>
+    <button>🔥</button>
+    <button>✨</button>
+  </div>
+`;
       <div class="reactions">
         <button>❤️</button>
         <button>🔥</button>
