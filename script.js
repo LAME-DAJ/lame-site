@@ -207,7 +207,7 @@ Inhale as you trace right,hold your breath as you trace down, exhale as you trac
 
 This  breathing Technique increases focus and reduces stress and overwhelm`
 },{ 
-  id: 29,
+  id: 28,
   title: "",
   date: "2026-02-22",
   type: "text",
@@ -216,14 +216,14 @@ This  breathing Technique increases focus and reduces stress and overwhelm`
 post traumatic Skepticism disorder. 
 everybody is a suspect 🤨😂 nah but fr tho its not fucking funny.`
 },{ 
-  id: 1771843921169,
+  id: 29,
   title: "Good morning",
   date: "2026-02-23",
   type: "text",
   topics: ["Good morning"],
   content: `Good morning it's gonna be a bright sun shining day 🌞`
 },{ 
-  id: 1771844295962,
+  id: 30,
   title: "Good morning",
   date: "2026-02-23",
   type: "text",
@@ -231,32 +231,32 @@ everybody is a suspect 🤨😂 nah but fr tho its not fucking funny.`
   content: `It is what it is I'm all that don't leave none don't take none out🤭
 But don't  be adding shit I got enough on my own fr😂`
 },{ 
-  id: 1771844876369,
+  id: 31,
   title: "Goodmorning",
   date: "2026-02-23",
   type: "text",
   topics: ["Thoughts"],
   content: `I'm supposed to be the only person who can see these post rn. like when I'm talking to my self, But just like that I get the feeling that everyone can see what I write and hear what I say/think.🤔 coincidence?,magic?, or nosey spying weird bitches?🤣...and bitch niggas lol`
 },{ 
-  id: 1771847081033,
+  id: 32,
   title: "",
   date: "2026-02-23",
   type: "text",
   topics: ["Thoughts"],
   content: `I wish I had a free bag of the Truuuth👀`
   },{ 
-  id: 1771949047589,
+  id: 33,
   title: "",
   date: "2026-02-24",
   type: "text",
   topics: [],
   content: `I really wanna know how yall hear my thoughts 🤬🤬`
 },{ 
-  id: 1772076113901,
+  id: 34,
   title: "I took a risk to break the illusion",
   date: "2026-02-26",
   type: "text",
-  topics: [gangstalking, gaslighting],
+  topics: ["gangstalking", "gaslighting"],
   content: `Okay so now im back at square one  with this gangstalking witch craft shit. Took a chance and made a move. The main gang stalker kem arts has been pressuring  me to buy a "cord cutting " based on the narrative she portrays online mixed with very specific and accurate details of my every day/private life,mixed with other accusations against certain people in my life who I have already expressed suspicion of being involved on one of my many private out lets.the "chord cutting " is $100 I don't fully trust Kem Arts as I have expressed that I believe she is the Devil or representation of that. So I decided to test the waters for a lower price "$25.25" for "pop up" where she supposedly reads tarro cards but it's always the same story for every " customer " (my story) mixed in with extra details that could make sense from what I know is happening to me and my parents. (Despite her trying to turn me against them). I just wanted to see if she would give a true account of what's happening without twisting it with lies if she had to direct the story to me personally and couldn't hide behind a "collective" or saying take what resonates only. I paid $25.25 and she did not do the reading. I'm not upset because I didn't really want the reading I just wanted to break the illusion. If she had done it then one could say maybe her readings are for "entertainment purposes only" but because she didn't I feel like it because she couldn't out her self by saying it directly to me either with out the extra lies or with the extra lies where I could ask questions or defend myself . And now I wake up to my "brother " gaslighting my mother in the living room and again trying to place blame on me. im out $25.25 and I still don't know whats the point of it all. I did prove one thing i needed to prove for my self tho and thats she was deliberately causing confusion for me and dragging me deeper into what ever illusion she and the rest of my gangstalkers ( family, associates, random people etc,) wanted me in. I dont know whats coming next but guess I have one b less person to manipulate my mind, steal my words/ work and defame my character all while hiding behind the machine. i feel like I got the same result for a lesser price. its not a win not the clarity I was hoping to gain but I feel like I clipped  a loose end .🤷🏾‍♀️just for the record as of feb/25/26 10:37 pm she has not gone live.`
 },
 ];
