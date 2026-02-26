@@ -285,18 +285,12 @@ function renderPosts(list) {
   list.forEach(p => {
     const el = document.createElement("article");
     el.className = "post";
-    el.innerHTML = `
-      <h3>${p.title}</h3>
-      <div class="meta">${p.date} • ${p.type}</div>
-      const isYouTube =
-  typeof p.content === "string" &&
-  (p.content.includes("youtube.com/watch") || p.content.includes("youtu.be/"));
 
-el.innerHTML = `
-  <h3>${p.title}</h3>
-  <div class="meta">${p.date} • ${p.type}</div>
-  ${
-    isYouTube
+    const isYouTube =
+      typeof p.content === "string" &&
+      (p.content.includes("youtube.com/watch") || p.content.includes("youtu.be/"));
+
+    const body = isYouTube
       ? `<div class="video">
            <iframe
              width="100%"
@@ -308,8 +302,22 @@ el.innerHTML = `
              allowfullscreen
            ></iframe>
          </div>`
-      : `<p>${p.content}</p>`
-  }
+      : `<p>${p.content}</p>`;
+
+    el.innerHTML = `
+      <h3>${p.title || ""}</h3>
+      <div class="meta">${p.date} • ${p.type}</div>
+      ${body}
+      <div class="reactions">
+        <button>❤️</button>
+        <button>🔥</button>
+        <button>✨</button>
+      </div>
+    `;
+
+    postsEl.appendChild(el);
+  });
+}
   <div class="reactions">
     <button>❤️</button>
     <button>🔥</button>
