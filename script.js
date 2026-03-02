@@ -318,33 +318,16 @@ function renderPosts(list) {
     postsEl.appendChild(el);
   });
 }
-  <div class="reactions">
-    <button>❤️</button>
-    <button>🔥</button>
-    <button>✨</button>
-  </div>
-`;
-      <div class="reactions">
-        <button>❤️</button>
-        <button>🔥</button>
-        <button>✨</button>
-      </div>
-    `;
-    postsEl.appendChild(el);
-  });
-}
-
 function filterPosts() {
   const q = searchEl.value.toLowerCase();
   const f = filterEl.value;
 
   const filtered = posts.filter(p => {
     const matchesText =
-      p.title.toLowerCase().includes(q) ||
-      p.content.toLowerCase().includes(q) ||
-      p.topics.join(" ").toLowerCase().includes(q) ||
-      p.date.includes(q);
-
+  (p.title || "").toLowerCase().includes(q) ||
+  (p.content || "").toLowerCase().includes(q) ||
+  (p.topics || []).join(" ").toLowerCase().includes(q) ||
+  (p.date || "").includes(q);
     const matchesFilter = f === "all" || p.type === f;
     return matchesText && matchesFilter;
   });
