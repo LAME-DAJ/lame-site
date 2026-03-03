@@ -272,7 +272,22 @@ But don't  be adding shit I got enough on my own fr😂`
   type: "text",
   topics: ["Gangstalking", "gaslighting"],
   content: `Today someone (another "random patient")told me to be born again and except Jesus indy heart to "save me" but he also kept making the same weird gangstalking references that every participant that I came in contact with have been making this this month or in the past two specific ones to be exact. He said he was a pastor he explain some things but of course he wasn't able to give me the answers I feel like I need to feel confident in saying "jesus "(doesn't seem tangible)can solve problems cause by man (tangible) I expressed to him that I like that idea or concept of who "jesus" is and what he is capable of but to turn a blind eye to what's going on in my life and say he will save me seems like idk it's irrational but yet I still like to think that he is a presence that helps me from time to time.any way after that conversation I went on like an hour long rant IN MY MIND about how Christian beliefs make no sense to me and how I really believe all religions are really the same thing different flavors. A rant that if any average Christian could,or did hear would say was very "blasphemous" shid I said sona couple times myself lol. We did agree on something tho and that is that it's something I have to experience for myself which has been one of my greatest blocks and questions pertaining to it besides trying to figure out why people are trying to force me into one or the other when I clearly said I'd prefer to believe in many teachings rather than just box myself in one. But my question was how come so many people claim to have met and spoke with god/jesus or experienced things but I haven't? Another question; why is everyone concerned with what religion I choose to follow? Why are people concerned with my life at all to the point that every thing I say and do is a spectacle? Another question I've had these past couple of weeks was how to even do that("surrender to jesus") as everyone has been hinting. He answered that question tho so that was good the only problem is When ever I think about doing that I feel like a hypocrite,and i feel like right now choosing either is pointless because it's all still a partner what ever game is being played on me and what ever I choose to have faith in gets attacked . Not to mention have been aware that I was being played with and gangstalked for about 6 years yet this religious theme only started in 2024/2025 which just says to me it a game with in a game so I might as well explore all routes like free play because I dont like being for to play someone pre written story line . My life should be my own not a game to be played for other people's entertainment. `
-},
+},{ 
+  id: 1772577723405,
+  title: "Right now is right now until its not",
+  date: "2026-03-03",
+  type: "text",
+  topics: [],
+  content: `Whyy are you taunting me Right Now
+Cause, Right now somebody gotta tell DAJA something
+Cause, Right Now
+DAJA dont believe in nothing
+And Right Now
+DAJA dont know why all yall is fronting
+Cause, Right Now,
+DAJA  feel like I'm prey and yall hunting
+Right Now.`
+}
 { 
   id: 1772474495326,
   title: "Which one",
@@ -281,7 +296,7 @@ But don't  be adding shit I got enough on my own fr😂`
   topics: [],
   content: `Okay my site is back up.worst case scenario I've been spiritually abused by 1 or more religious cults primarily using the B.I.T.E Model.(look it up). 
 Best case scenario that I can see and based of the info that I received which may or may not be true.: America has a secret game,titled "The Chosen One" where they pick people born under a pre selected SSI numbers.Like a lottery. A trust fund is set up for the chosen one American citizens watch the chosen ones life from birth or adolescents,without interference they are kept in line by the government. To ensure no one exposes the "secret". When the government and orchestrators decide it's time the game begins.  They roll out a well planned string of events to make the chosen one awear but not fully that they are not living the reality they thought they were. To keep it short I won't add details in this post. But the goal or point is to drive the chosen one crazy ,or to death.? (Idk not sure)all while playing the game and implementing what ever political theams and agendas the decide are relevant for the time. using the chosen ones reactions and decisions as an example to all?( idk not sure) once the game has been deemed successful by achieving whatever goal was set for the chosen one or maybe they wait to see what the chosen one wants to be in life and then they write out the life path for the chosen one to follow but it comes with distractions to make it harder and more interesting to watch. And people closest to the chosen ones can choose to be allies or enemies and try to throw the chosen one off their path so that they can continue to benefit off of them or steal the prize their for their self. Until I was chosen and I guess I figured out more than I should've and fucked up the game cause I didn't want to follow there path now it's a stale mate lol idk not sure but if I put my experiences into chat gpt it would probably come up with something pretty close to this shit right here nigga😂`
-}
+},
 ];
 
 const postsEl = document.getElementById("posts");
