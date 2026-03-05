@@ -295,6 +295,23 @@ DAJA dont know why all yall is fronting
 Cause, Right Now,
 DAJA  feel like I'm prey and yall hunting
 Right Now.`
+},{ 
+  id: 1772729764910,
+  title: "",
+  date: "2026-03-05",
+  type: "text",
+  topics: [],
+  content: ` I am without the answers.
+
+ Somethings tryna stop my growth like cancers.
+
+ I see the rhythm through dancers. 
+ 
+ Stay on my toes I'm a prancer.
+
+ DAJA ain't got all the answers 
+
+ But she still gon pass the test, Advanced her!`
 }
 ];
 
