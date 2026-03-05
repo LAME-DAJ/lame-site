@@ -312,6 +312,26 @@ Right Now.`
  DAJA ain't got all the answers 
 
  But she still gon pass the test, Advanced her!`
+},{ 
+  id: 1772736565350,
+  title: "",
+  date: "2026-03-05",
+  type: "text",
+  topics: [],
+  content: `Everybody loved me
+But acted like they hate me 
+ 
+Now Everybody hate me but they say they loved me.
+
+I see smiling faces but the vibe feel ugly.
+
+I hear you speaking lies after you said trust me.
+
+My goal is to shine but yall tryna dust me.
+
+You pray for me to lie just so you can bust me .
+
+I tell the truth everytime but my delivery's rusty.`
 }
 ];
 
