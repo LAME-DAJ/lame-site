@@ -345,6 +345,14 @@ I tell the truth everytime but my delivery's rusty.`
   type: "text",
   topics: [],
   content: `Lol I did say say some dumb shit but I just was tryna figure out why people switched up on me 🤷🏾‍♀️ the dumb shit was the only reason I could think of cause I didn't do shit fr. Somebody should've told me something instead of acting strange and op like...and If what I listed wasn't the reason I still don't know what was🤷🏾‍♀️`
+},{ 
+  id: 1772801709990,
+  title: "",
+  date: "2026-03-06",
+  type: "text",
+  topics: [],
+  content: `1.Please save your fake stories when i decide to participate in the conversations that you start.im not the one being manipulative when yall are manipulating every space in my life. Me calling out what people are doing or did to me and how
+It affected me is not manipulative blame it's the truth and if you don't want to hear it but still sneak and listen and watch me any way your clearly apart of the problem look in the mirror watch yourself don't watch me. And I ain't prove shit nobody said about me I don't even know what was said cause yall busy running behind my back talking shit and talking in code to me instead of saying what you want I just know whatever it is is lies that's why yall won't really stand on it and speak directly to me have fun being weird stalkers and eating up what ever bull shit you getting fed. 2.I do think babies feel energy just like I don't wanna be around my brother and his wife because they think every time they bring my niece around it time to be on some goofy gangstalking shit(just like everybody else) and she dont want to come to me i dont blame her I dont want to feel the weird ass energy either. But yall keep bringing it to  me. 3.New challenge for 2026 if you cant be direct and if you can't site the source of what you think you talking about STFU talking to me peeping Tom ass hoes. This is for everybody and somebody specific take what resonates dummies. `
 }
 ];
 
