@@ -338,6 +338,13 @@ I tell the truth everytime but my delivery's rusty.`
   type: "text",
   topics: [],
   content: `How weird it gotta be for yall to leave me alone.  Or unweird?`
+},{ 
+  id: 1772796195911,
+  title: "",
+  date: "2026-03-06",
+  type: "text",
+  topics: [],
+  content: `Lol I did say say some dumb shit but I just was tryna figure out why people switched up on me 🤷🏾‍♀️ the dumb shit was the only reason I could think of cause I didn't do shit fr. Somebody should've told me something instead of acting strange...🤷🏾‍♀️`
 }
 ];
 
