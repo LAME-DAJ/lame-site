@@ -365,6 +365,14 @@ It affected me is not manipulative blame it's the truth and if you don't want to
 4. Looking back I off of what I remember saying because of course I cant access the videos anymore, I know I  was overthinking some stuff and Completely wrong about other stuff, But most of it was just how I felt and me tryna figure out what no one would tell me.
 5. I was not trying to "re injure" any one by bringing up their past traumas.Thats actually one thing that kept me from posting it publicly because I wanted to edit it out after it a was all done . If that's the tone that was given my bad. I brought it up in that video in 2023 and in person face to face with the actual person in 2025 because I felt like it was significant to try to figure out what went wrong around that time and explaining how I wasn't against her in that moment even though we I was not talking to her but how people around "my aunt" try to instigate drama. As I'm writing this i did get a flash back of recording and realize my delivery sucked and also the fact that I did and still do feel like she is trying to antagonize and provoke me and bring me trouble I was being a little shady in that moment. So I would apologize for that but..., also when we actually talked about it  did a better job of getting my real point across I believe because it wasn't coming from a bitter place at that time and she responded in agreement as if she understood my point so🤷🏾‍♀️. I'm not the best at communicating but atleast I  try the problem is When I try directly lately its not received cause everybody wanna play the "game". Some other things I  said was probably just stupid but I just feel like the whole story is not being portrayed because my family purposely made their self my enemies rather it was because of something I said or not they should have just said something instead of acting so weird. If they can throw hints and clues out that they heard me singing and ranting in my car "alone"on the way to and from work than they could have addressed whatever problem they had with what i said about them. My private time and space was compromised and exploited and people weren't ready for what they heard it was never I'll will on my end until I felt betrayed. 
 6. There is such a thing call mind dumping/ venting.  Not the best communicator but I'm a good listener. When everybody talks to you about their problems I f I lived them or not my reaction is to find a solution take it or leave. I just replay shit in my head and let my opinions on the matter  go I dont feel like its necessary or appropriate always give certain thoughts and opinions I have on certain things which I why I would talk it out in private, or so I thought.`
+},{ 
+  id: 1773792450859,
+  title: "",
+  date: "2026-03-18",
+  type: "text",
+  topics: [],
+  content: `Hey weirdos STOP QUOTING MY POST 🤬 Yall not even supposed to be on here nosey whores 😂😂😂
+L.A.M.E tho😊`
 }
 ];
 
