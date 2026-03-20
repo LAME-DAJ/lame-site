@@ -373,6 +373,13 @@ It affected me is not manipulative blame it's the truth and if you don't want to
   topics: [],
   content: `Hey weirdos STOP QUOTING MY POST 🤬 Yall not even supposed to be on here nosey whores 😂😂😂
 L.A.M.E tho😊`
+},{ 
+  id: 1773973802048,
+  title: "",
+  date: "2026-03-20",
+  type: "text",
+  topics: [],
+  content: `Aiight I ain't got nothing else fr🤣 that was it lol can we wrap this shit up now?? Sheeesh!`
 }
 ];
 
