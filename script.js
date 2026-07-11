@@ -531,6 +531,6 @@ unlockBtn?.addEventListener("click", () => {
     document.querySelector(".admin-lock").classList.add("hidden");
     lockMsg.textContent = "";
   } else {
-    lockMsg.textContent = "Wrong password 😅";
+    lockMsg.textContent = "philly jilly";
   }
 });
